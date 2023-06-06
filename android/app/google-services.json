@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066803118892",
+    "project_id": "course-app-750f7",
+    "storage_bucket": "course-app-750f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066803118892:android:11aef9116fec00f622a289",
+        "android_client_info": {
+          "package_name": "com.ammu.fultter_courseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066803118892-dpvai6jnqkd1m85ukmnk55ubcq6svi6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiCFVYyRDWEYLT8RePW62soR_ILtZ4J38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066803118892-dpvai6jnqkd1m85ukmnk55ubcq6svi6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
